@@ -1,0 +1,80 @@
+{
+    "uuid": [
+        {
+            "value": "2c7ae251-4296-49b7-8f17-ce3a6cab52e2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "logo_collection",
+            "target_type": "paragraphs_type",
+            "target_uuid": "7d76d567-2157-4d2e-9b42-9a555c665574"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-27T13:13:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_media_item": [
+        {
+            "target_type": "media",
+            "target_uuid": "84e378f2-dd00-459d-9018-4c89353b9eee"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "14bbf672-441a-408e-bf08-7706894962d3"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "7b34a142-7b7f-4ac4-952f-e31d8b83d82f"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "2033cf4f-ec32-4689-878f-9410fa8e22d0"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "346f015d-a9d3-49bd-bb34-267ee5259720"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "26b36c99-0a3c-457a-98e3-ab4ccfa88ee7"
+        },
+        {
+            "target_type": "media",
+            "target_uuid": "7028d67c-8d2e-4db6-bd43-6e7726384291"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Trusted Open Source Technology"
+        }
+    ]
+}

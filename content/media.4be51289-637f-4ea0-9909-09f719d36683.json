@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "4be51289-637f-4ea0-9909-09f719d36683"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "svg_image",
+            "target_type": "media_type",
+            "target_uuid": "a5265971-24e5-4c6b-9cfa-b3d6372082fd"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-02-18T01:31:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "name": [
+        {
+            "value": "quote-logo"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "quote-logo",
+            "title": null,
+            "width": null,
+            "height": null,
+            "target_type": "file",
+            "target_uuid": "343d854c-c406-4678-8774-df6606f68b06"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T01:31:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "quote-logo",
+            "title": "quote-logo",
+            "width": 0,
+            "height": 0,
+            "target_type": "file",
+            "target_uuid": "343d854c-c406-4678-8774-df6606f68b06"
+        }
+    ]
+}

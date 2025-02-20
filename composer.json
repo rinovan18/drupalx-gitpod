@@ -12,6 +12,7 @@
     "require": {
         "composer/installers": "^2.1",
         "cweagans/composer-patches": "^1.7",
+        "drupal-tome/tome_drush": "dev-master",
         "drupal/backup_migrate": "^5.0",
         "drupal/components": "^3.0@beta",
         "drupal/node_export": "^1.2",

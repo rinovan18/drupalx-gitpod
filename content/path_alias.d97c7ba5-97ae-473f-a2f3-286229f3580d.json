@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "d97c7ba5-97ae-473f-a2f3-286229f3580d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/6d1b06ed-1791-4ba6-a411-094f99970583"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/pricing"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

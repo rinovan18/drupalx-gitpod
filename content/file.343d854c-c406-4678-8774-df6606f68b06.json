@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "343d854c-c406-4678-8774-df6606f68b06"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "filename": [
+        {
+            "value": "quote-logo.svg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/quote-logo.svg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/svg+xml"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 3512
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T01:31:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

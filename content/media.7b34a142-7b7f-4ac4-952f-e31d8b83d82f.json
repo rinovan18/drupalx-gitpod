@@ -1,0 +1,92 @@
+{
+    "uuid": [
+        {
+            "value": "7b34a142-7b7f-4ac4-952f-e31d8b83d82f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "180e66ec-f35e-445c-aab1-351fcd296345"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2025-02-18T01:31:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "name": [
+        {
+            "value": "storybook.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Storybook logo",
+            "title": null,
+            "width": 503,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "36088639-c1ed-498c-b325-8038942d67ce"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-28T14:02:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-18T01:31:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Storybook logo",
+            "title": "",
+            "width": 503,
+            "height": 100,
+            "target_type": "file",
+            "target_uuid": "36088639-c1ed-498c-b325-8038942d67ce"
+        }
+    ]
+}

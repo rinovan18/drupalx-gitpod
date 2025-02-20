@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "a47a9f4e-56b5-4ce2-9924-738332c9b46f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "217f9737-840f-4a50-ac56-66ece53af6df"
+        }
+    ],
+    "filename": [
+        {
+            "value": "node-landing-a9f34d11-cbfb-4f78-916d-8fd8c006f728.yml"
+        }
+    ],
+    "uri": [
+        {
+            "value": "temporary:\/\/export\/node-landing-a9f34d11-cbfb-4f78-916d-8fd8c006f728.yml"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/octet-stream"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 16335
+        }
+    ],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-20T15:04:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-20T15:04:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

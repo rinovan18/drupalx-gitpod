@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4c3f06f8-1969-4f64-ad6a-0cbf22c46b96"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ffb8ba93-130e-4c96-8e77-876d3bb614e8"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/access-denied"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}
