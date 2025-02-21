@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "af8dc4de-5e39-449e-a709-3c6ad20138f8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "card_group",
+            "target_type": "paragraphs_type",
+            "target_uuid": "67283d7a-e711-4226-9f43-b45729639765"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-26T21:12:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_card": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fa24cec7-aec2-4f92-b4f6-76c77c6593b4"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "a7404361-9680-4cd5-845c-98d227768c6d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "edbfacf9-7e6f-4d79-aae0-b4fbd32c83c7"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Discover the Future of Web Development with DrupalX's Innovative Features"
+        }
+    ]
+}

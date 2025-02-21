@@ -1,0 +1,79 @@
+{
+    "uuid": [
+        {
+            "value": "2a7b6a85-8053-4c98-88a9-fff7136d6274"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-09-30T21:00:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "0df73414-ab9c-445a-82b2-41eb17401e91"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7cf2459b-5a90-42c2-87c3-2980dcacf31f"
+        }
+    ],
+    "field_link": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>DrupalX offers a powerful blend of flexibility and performance, enabling seamless integration and unparalleled user experience.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Discover the Essential Features That Make DrupalX Stand Out in Web Development"
+        }
+    ]
+}

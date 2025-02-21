@@ -1,0 +1,129 @@
+{
+    "uuid": [
+        {
+            "value": "063f38d0-acf8-4c5e-8aa8-664020e30246"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing",
+            "target_type": "node_type",
+            "target_uuid": "f8ba7ce4-6a07-4a43-84f6-2738f844cd69"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-21T09:54:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Belajar - AI-Powered Lightning Fast Development"
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-21T09:53:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-21T09:54:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "688dd60c-bd94-49ce-ae02-0243d80b79fe"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "8274fe36-b0fd-4702-acbe-b9f400678c9e"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "af8dc4de-5e39-449e-a709-3c6ad20138f8"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c8716c79-cffd-4cbb-9c6d-767ae5d0c673"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fd061f38-74ef-46fb-bbe5-b97fd921736b"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d4ec360b-9992-4854-a5f8-c7b73b53d96f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "7dac5def-edcf-40f3-a9d0-5feab5e9df1a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "2a7b6a85-8053-4c98-88a9-fff7136d6274"
+        }
+    ],
+    "field_hide_page_title": [
+        {
+            "value": true
+        }
+    ],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}
