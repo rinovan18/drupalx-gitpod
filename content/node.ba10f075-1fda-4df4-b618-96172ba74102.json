@@ -1,0 +1,125 @@
+{
+    "uuid": [
+        {
+            "value": "ba10f075-1fda-4df4-b618-96172ba74102"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "landing",
+            "target_type": "node_type",
+            "target_uuid": "f8ba7ce4-6a07-4a43-84f6-2738f844cd69"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2025-02-21T10:00:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "d9843f35-8993-4f2b-98fa-53b0a823b04f"
+        }
+    ],
+    "title": [
+        {
+            "value": "Klone of DrupalX Features"
+        }
+    ],
+    "created": [
+        {
+            "value": "2025-02-21T09:59:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2025-02-21T10:00:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "field_content": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "bad6140e-e09b-4876-b7d1-193a8ff354e1"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "9c41ee16-1bf5-4e99-a28c-7b132fa6798e"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "ea62db11-7802-4a6a-9e25-d421e8dbbf1a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "54230f6f-75c6-49b4-b511-857ae99ebc64"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fc559bd1-5875-4226-aa0d-a2554cfcd401"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d477072b-b56a-4c51-bef6-2c04d1d44361"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "26b83c68-2e4f-4d6e-82d2-e08ddb95e94b"
+        }
+    ],
+    "field_hide_page_title": [
+        {
+            "value": true
+        }
+    ],
+    "field_meta_tags": [],
+    "field_summary": [],
+    "field_thumbnail": []
+}

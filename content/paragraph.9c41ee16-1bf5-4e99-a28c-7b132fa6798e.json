@@ -1,0 +1,87 @@
+{
+    "uuid": [
+        {
+            "value": "9c41ee16-1bf5-4e99-a28c-7b132fa6798e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sidebyside",
+            "target_type": "paragraphs_type",
+            "target_uuid": "bd7357ce-bf06-40c1-b486-9652fc618fe4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-08-24T23:23:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_eyebrow": [
+        {
+            "value": "Customizable Components"
+        }
+    ],
+    "field_features": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "68aab306-40db-43e2-90d7-2a9f7b81244a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "25530fd4-3e43-4734-b264-75a7c4542fcf"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "885586b9-1787-444f-be22-e65695bd2001"
+        }
+    ],
+    "field_link": [],
+    "field_media": [
+        {
+            "target_type": "media",
+            "target_uuid": "9a33874e-ce03-4f0f-9c6e-164a416d574c"
+        }
+    ],
+    "field_sidebyside_layout": [
+        {
+            "value": "right"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "<p>At DrupalX, we empower developers with cutting-edge tools designed for efficiency and creativity. Experience seamless integration and unparalleled performance that elevate your web projects.<\/p>",
+            "format": "basic_html"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Discover the Future of Web Development with DrupalX's Innovative Tools"
+        }
+    ]
+}

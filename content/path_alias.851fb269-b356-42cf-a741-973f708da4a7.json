@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "851fb269-b356-42cf-a741-973f708da4a7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/ba10f075-1fda-4df4-b618-96172ba74102"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/klone-drupalx-features"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

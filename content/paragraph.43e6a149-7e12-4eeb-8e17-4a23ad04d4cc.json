@@ -1,0 +1,62 @@
+{
+    "uuid": [
+        {
+            "value": "43e6a149-7e12-4eeb-8e17-4a23ad04d4cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "stats_item",
+            "target_type": "paragraphs_type",
+            "target_uuid": "64db9b76-d7ae-4228-9c0c-faaff68463de"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:29:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_custom_icon": [],
+    "field_icon": [
+        {
+            "value": "box"
+        }
+    ],
+    "field_summary": [
+        {
+            "value": "Tailor your experience with flexible module options.",
+            "format": ""
+        }
+    ],
+    "field_title": [
+        {
+            "value": "Customizable Modules"
+        }
+    ]
+}

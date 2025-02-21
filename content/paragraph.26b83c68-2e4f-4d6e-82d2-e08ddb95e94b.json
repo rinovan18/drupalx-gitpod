@@ -1,0 +1,72 @@
+{
+    "uuid": [
+        {
+            "value": "26b83c68-2e4f-4d6e-82d2-e08ddb95e94b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "accordion",
+            "target_type": "paragraphs_type",
+            "target_uuid": "31c05a6f-5948-4a08-93b7-3033830b6ad4"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-07T00:41:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_accordion_item": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "f68f068e-8cb8-4139-94ef-0bb8702dd77a"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "fb4039ee-6003-4435-8d94-c933f8bc234f"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "85f27f49-4ccc-421f-9dbe-4f0775afa4ce"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "c4e5e98f-0ae9-4154-9ada-49143fb69c5d"
+        },
+        {
+            "target_type": "paragraph",
+            "target_uuid": "11bb7dd2-77d7-428f-a47d-a614be207cff"
+        }
+    ],
+    "field_title": [
+        {
+            "value": "FAQs"
+        }
+    ]
+}
