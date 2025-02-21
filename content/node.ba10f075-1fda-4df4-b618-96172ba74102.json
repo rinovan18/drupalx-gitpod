@@ -79,8 +79,7 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/klone-drupalx-features",
             "langcode": "en"
         }
     ],

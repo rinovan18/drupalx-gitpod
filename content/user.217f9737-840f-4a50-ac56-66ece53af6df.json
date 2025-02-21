@@ -26,7 +26,11 @@
         }
     ],
     "mail": [],
-    "timezone": [],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
     "status": [
         {
             "value": false
